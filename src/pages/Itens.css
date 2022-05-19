@@ -1,0 +1,15 @@
+header{
+    background-color: rgb(0, 253, 253);
+}
+
+form.item {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+form.item label { 
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
