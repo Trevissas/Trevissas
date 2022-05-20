@@ -4,7 +4,7 @@ import Rodape from '../components/Rodape';
 import Button from '../components/Button';
 
 
-const ItensPage = function()  {
+const ItensPage = function() {
     //let estado: 'Iniciar';
     const [estado, setEstado] = useState('INICIAL');
 
